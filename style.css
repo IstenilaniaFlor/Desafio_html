@@ -1,0 +1,24 @@
+h1{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR0cfRIWMEbVsRBYfxuVc4QdqkVyJo5FbzYCpd9lJRX82SY1oeqThU7DPnCzZW4_zBdno&usqp=CAU")
+}
+
+body{
+    text-align: center;
+}
+    .imgs{
+        margin-left: -350px;
+        margin-top: 32px;
+    }
+    .imgs2{
+        margin-left: 350px;
+        margin-top:-191px;
+    
+    }
+    .imgs3{
+        margin-left: -350px;
+        margin-top: 12px;
+    }
+    .imgs4{
+        margin-left: 350px;
+        margin-top:-191px;
+    }
